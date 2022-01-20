@@ -1,3 +1,7 @@
+tomas
+juan
+carlos
+maria
 toro
 dog
 cat
