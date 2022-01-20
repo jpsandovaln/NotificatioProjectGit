@@ -1,2 +1,5 @@
+toro
 dog
 cat
+gallina
+pato
